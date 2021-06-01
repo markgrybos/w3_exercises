@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0E1D7045-99E5-453D-9B5C-BEB7C6D79F81}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="w3_exercises/Program.cs">
+    <Files>
+      <File FileName="w3_exercises/Program.cs" Line="84" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="w3_exercises" expanded="True">
+            <Node name="w3_exercises" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.w3__exercises PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
