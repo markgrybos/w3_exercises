@@ -10,3 +10,16 @@
 /Users/home/Documents/bootcamp/w3_exercises/w3_exercises/w3_exercises/obj/Debug/netcoreapp3.1/w3_exercises.dll
 /Users/home/Documents/bootcamp/w3_exercises/w3_exercises/w3_exercises/obj/Debug/netcoreapp3.1/w3_exercises.pdb
 /Users/home/Documents/bootcamp/w3_exercises/w3_exercises/w3_exercises/obj/Debug/netcoreapp3.1/w3_exercises.genruntimeconfig.cache
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.exe
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.deps.json
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.runtimeconfig.json
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.runtimeconfig.dev.json
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.dll
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\bin\Debug\netcoreapp3.1\w3_exercises.pdb
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.csprojAssemblyReference.cache
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.AssemblyInfoInputs.cache
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.AssemblyInfo.cs
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.dll
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.pdb
+C:\Users\Mark\Source\Repos\w3_exercises\w3_exercises\obj\Debug\netcoreapp3.1\w3_exercises.genruntimeconfig.cache
